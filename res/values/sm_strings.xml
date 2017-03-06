@@ -21,4 +21,6 @@
     <string name="not_available">not available</string>
     <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
     <string name="no_perms">This app requires no permissions.</string>
+    <!-- unknown apps dialog -->
+    <string name="just_once">Just once</string>
 </resources>
