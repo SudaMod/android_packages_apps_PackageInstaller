@@ -21,4 +21,6 @@
     <string name="not_available">无效</string>
     <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
     <string name="no_perms">这个软件不需要权限.</string>
+    <!-- unknown apps dialog -->
+    <string name="just_once">仅允许该安装</string>
 </resources>
